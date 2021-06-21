@@ -9,7 +9,7 @@ public class Main {
         String key = scanner.nextLine();
 
         if (key.equals("pro")) {
-            ProDocumentWorker proVersion = new ProDocumentWorker();
+            DocumentWorker proVersion = new ProDocumentWorker();
             proVersion.openDocument();
             proVersion.editDocument(); //pro выводит не верно!!
             proVersion.saveDocument();

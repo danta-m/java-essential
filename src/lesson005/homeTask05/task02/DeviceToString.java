@@ -1,7 +1,5 @@
 package lesson005.homeTask05.task02;
 
-import lesson005.homeTask05.task01.Device;
-
 public class DeviceToString {
     private String manufacturer;
     private float price;

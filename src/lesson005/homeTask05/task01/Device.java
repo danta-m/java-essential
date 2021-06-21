@@ -1,7 +1,5 @@
 package lesson005.homeTask05.task01;
 
-import java.util.Objects;
-
 public class Device {
     private String manufacturer;
     private float price;

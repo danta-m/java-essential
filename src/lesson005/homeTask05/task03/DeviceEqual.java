@@ -1,8 +1,5 @@
 package lesson005.homeTask05.task03;
 
-import lesson005.homeTask05.task02.DeviceToString;
-import lesson005.practice.Animal;
-
 import java.util.Objects;
 
 public class DeviceEqual {
