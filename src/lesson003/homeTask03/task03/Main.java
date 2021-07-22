@@ -13,7 +13,7 @@ public class Main {
             proVersion.openDocument();
             proVersion.editDocument(); //pro выводит не верно!!
             proVersion.saveDocument();
-        } if (key.equals("exp")) {
+        } else if (key.equals("exp")) {
             ExpertDocumentWorker expertVersion = new ExpertDocumentWorker();
             expertVersion.openDocument();
             expertVersion.editDocument();
